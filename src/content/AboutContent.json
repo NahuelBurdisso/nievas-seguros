@@ -1,0 +1,16 @@
+{
+  "title": "Rápido, fácil y eficiente",
+  "text": "Nuestro proceso de cotización y emisión de pólizas es simple y rápido, permitiéndole obtener la cobertura que necesita sin complicaciones.",
+  "section": [
+    {
+      "title": "Planes personalizables",
+      "content": "Adapte su cobertura a sus necesidades y presupuesto, eligiendo entre nuestras opciones flexibles.",
+      "icon": "notes.svg"
+    },
+    {
+      "title": "Soporte al cliente 24/7",
+      "content": "Nuestro equipo de atención al cliente está siempre disponible para responder sus preguntas y ayudarle en todo momento.",
+      "icon": "notes.svg"
+    }
+  ]
+}
